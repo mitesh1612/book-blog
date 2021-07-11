@@ -1,10 +1,8 @@
-baseURL: https://example.com
+baseURL: https://mitesh1612.github.io/book-blog
 languageCode: en-us
 defaultContentLanguage: en
-title: PaperCSS
+title: Mitesh Shah's Book Blog
 theme: papercss-hugo-theme
-googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
 
 privacy:
   disqus:
@@ -23,7 +21,7 @@ imaging:
 paginate: 5
 
 params:
-  homeMetaContent: A Hugo theme made with PaperCSS, the less formal CSS framework.
+  homeMetaContent: My blog about books and everything I learn from books.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   navTitleLink: /
