@@ -4,9 +4,6 @@ defaultContentLanguage: en
 title: Mitesh Shah's Book Blog
 theme: papercss-hugo-theme
 
-navTitleLink: https://mitesh1612.github.io/book-blog
-
-
 privacy:
   disqus:
     disable: true
@@ -27,7 +24,7 @@ params:
   homeMetaContent: My blog about books and everything I learn from books.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  navTitleLink: /
+  navTitleLink: https://mitesh1612.github.io/book-blog
 
 menu:
   nav:
