@@ -4,6 +4,9 @@ defaultContentLanguage: en
 title: Mitesh Shah's Book Blog
 theme: papercss-hugo-theme
 
+navTitleLink: https://mitesh1612.github.io/book-blog
+
+
 privacy:
   disqus:
     disable: true
