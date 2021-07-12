@@ -12,7 +12,7 @@ taxonomies:
   tag: tags
 
 permalinks:
-  post: /:filename/
+  post: /:year/:month/:day/:filename/
 
 imaging:
   quality: 99
@@ -24,7 +24,7 @@ params:
   homeMetaContent: My blog about books and everything I learn from books.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  navTitleLink: https://mitesh1612.github.io/book-blog
+  navTitleLink: /book-blog
 
 menu:
   nav:
